@@ -37,3 +37,7 @@ def login():
 tk.Button(page, text='登录', command=login).grid(row=3, column=1, pady=10)
 tk.Button(page, text='退出', command=page.quit).grid(row=3, column=2)
 root.mainloop()
+
+
+
+
